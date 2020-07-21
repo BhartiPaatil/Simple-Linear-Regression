@@ -1,0 +1,2 @@
+# Simple-Linear-Regression
+This dataset(Weather) contains information on weather conditions recorded on each day at various weather stations around the world. Information includes precipitation, snowfall, temperatures, wind speed and whether the day included thunderstorms or other poor weather conditions.  So our task is to predict the maximum temperature taking input feature as the minimum temperature.
